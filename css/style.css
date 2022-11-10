@@ -206,7 +206,7 @@ h2 {
 }
 
 section, section > h2 {
-	border: 1px solid black;
+	border: 1px solid grey;
 }
 
 .row {
